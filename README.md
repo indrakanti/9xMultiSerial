@@ -1,5 +1,5 @@
 # 9xMultiSerial
-A simple architecture and tool to operate more multiple serial ports
+A simple architecture and tool to operate multiple serial ports
 
 This is a design create multple tty instance for application space to write and read from the ports.
 The user would update a input file similar to the DTS file of linux, with power on default attributes.
